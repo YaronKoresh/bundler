@@ -1,0 +1,19 @@
+{
+  "name": "@yaronkoresh/bundler",
+  "main": "./node.js",
+  "version": "1.0.0",
+  "description": "A code bundler",
+  "author": "Yaron Koresh <aharonkoresh1@gmail.com>",
+  "scripts": {
+    "test": "echo \"No test specified\" && exit 0"
+  },
+  "license": {
+    "type": "MIT",
+    "url": "https://github.com/YaronKoresh/bundler.js/raw/master/LICENSE"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/YaronKoresh/bundler.js.git"
+  },
+  "dependencies": { }
+}
